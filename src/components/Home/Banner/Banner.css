@@ -1,0 +1,6 @@
+@media(max-width: 767px) {
+    .banner {
+        margin-top: 20px;
+        margin-bottom: 80px;
+    }
+}

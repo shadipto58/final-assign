@@ -1,0 +1,9 @@
+@media screen and (max-width: 639px) {
+    .testimonial-title {
+        padding: 27px;
+    }
+
+    .testimonial-wrapper {
+        padding-top: 30px;
+    }
+}
